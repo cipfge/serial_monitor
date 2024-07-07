@@ -1,3 +1,6 @@
+# Directories
+.vscode/
 build/
 
+# Files
 *.txt.user
